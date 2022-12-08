@@ -3,3 +3,13 @@
 /Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/obj/Debug/net7.0/Task38.AssemblyInfoInputs.cache
 /Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/obj/Debug/net7.0/Task38.AssemblyInfo.cs
 /Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/obj/Debug/net7.0/Task38.csproj.CoreCompileInputs.cache
+/Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/bin/Debug/net7.0/Task38
+/Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/bin/Debug/net7.0/Task38.deps.json
+/Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/bin/Debug/net7.0/Task38.runtimeconfig.json
+/Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/bin/Debug/net7.0/Task38.dll
+/Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/bin/Debug/net7.0/Task38.pdb
+/Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/obj/Debug/net7.0/Task38.dll
+/Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/obj/Debug/net7.0/refint/Task38.dll
+/Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/obj/Debug/net7.0/Task38.pdb
+/Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/obj/Debug/net7.0/Task38.genruntimeconfig.cache
+/Users/monstruz/Desktop/Geekbrains/Seminar081222_Domashka/Task38/obj/Debug/net7.0/ref/Task38.dll

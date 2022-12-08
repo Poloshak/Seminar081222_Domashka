@@ -14,16 +14,16 @@ int[]FillPrintArray(int[] arr)
 
 int FindChetnoeChisloCount(int[] arr)
 {
-    int sum = 0;
+    int count = 0;
     foreach(int i in arr)
     {
         if(i%2 == 0)
         {
-            sum++;
+            count++;
         }
     }
-    Console.WriteLine($"{sum}");
-    return sum;
+    Console.WriteLine($"количество чётных чисел в массиве: {count}");
+    return count;
 }
 
 Console.Clear();
